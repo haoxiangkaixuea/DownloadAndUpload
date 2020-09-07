@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+<!--<domain-config cleartextTrafficPermitted="true">-->
+<!--    <domain includeSubdomains="true">ivi.bupt.edu.cn</domain>-->
+<!--    <domain includeSubdomains="true">172.32.12.243</domain>-->
+<!--</domain-config>-->
+    <base-config cleartextTrafficPermitted="true" />
+</network-security-config>
